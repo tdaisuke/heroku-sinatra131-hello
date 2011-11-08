@@ -8,6 +8,6 @@ end
 
 
 get '/' do
-	'hello'
+	'hello test'
 end
 
